@@ -1,7 +1,7 @@
-baseURL: /
+baseURL: https://alter-hugo.netlify.app/
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
+title: Título
 author: Alison Hill
 copyright: ''
 googleAnalytics: ''
